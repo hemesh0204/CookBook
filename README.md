@@ -19,22 +19,31 @@ A modern cookbook application built using React for the frontend. The app allows
 
 ```
 📂 cookbook-app
-│── 📂 src
-│   ├── 📂 components
-│   │   ├── Button.js
-│   │   ├── RecipeCard.js
-│   │   ├── RecipeDetails.js
-│   ├── 📂 pages
-│   │   ├── Home.js
-│   │   ├── RecipePage.js
-│   ├── 📂 services
-│   │   ├── api.js  # Handles API calls to Groq Playground
-│   ├── 📂 utils
-│   │   ├── helpers.js
-│   ├── App.js
-│   ├── index.js
-│── 📜 package.json
 │── 📜 README.md
+│── 📜 eslint.config.js
+│── 📜 index.html
+│── 📜 netlify.toml
+│── 📜 package-lock.json
+│── 📜 package.json
+│── 📂 public
+│   └── vite.svg
+│── 📂 src
+│   ├── App.jsx
+│   ├── 📂 components
+│   │   ├── GenerateIdeas.jsx
+│   │   ├── HistoryPage.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── PreferencesPage.jsx
+│   │   ├── RecipeDetails.jsx
+│   │   ├── RecipeDisplay.jsx
+│   │   ├── RecipePage.jsx
+│   │   └── SearchPage.jsx
+│   ├── 📂 firebase
+│   │   └── firebaseConfig.js
+│   ├── main.jsx
+│   ├── 📂 styles
+│   │   └── global.css
+│── 📜 vite.config.js
 ```
 
 ## Setup & Installation
