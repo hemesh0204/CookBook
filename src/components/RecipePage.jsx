@@ -96,7 +96,7 @@ const RecipePage = () => {
                   Only return valid JSON. No markdown, no explanations, and no additional text.`,
                 },
               ],
-              max_tokens: 9000,
+              max_tokens: 6000,
             }),
           }
         );

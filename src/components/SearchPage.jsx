@@ -101,7 +101,7 @@ const SearchPage = () => {
                 }`
               },
             ],
-            max_tokens: 6000,
+            max_tokens: 8000,
           }),
         }
       );
