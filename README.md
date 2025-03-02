@@ -1,4 +1,4 @@
-# [Cookbook App](url:https://c00kb00k.netlify.app/)
+# [Cookbook App](https://c00kb00k.netlify.app/)
 
 A modern cookbook application built using React for the frontend. The app allows users to generate recipe ideas, fetch full recipes, and navigate through different pages seamlessly.
 
