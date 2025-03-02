@@ -1,0 +1,12 @@
+/* Global Styles - src/styles/global.css */
+body {
+    background-color: #eae0d5; /* Elegant beige for warm contrast */
+    color: #0d1b2a;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif; /* Optional: Set default font */
+  }
+  
+  * {
+    box-sizing: border-box; /* Ensure padding doesn't affect width calculations */
+  }
