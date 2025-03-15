@@ -1,19 +1,27 @@
-# [Cookbook App](https://c00kb00k.netlify.app/)
+# 🍽️ [Cookbook App](https://c00kb00k.netlify.app/)
 
-A modern cookbook application built using React for the frontend. The app allows users to generate recipe ideas, fetch full recipes, and navigate through different pages seamlessly.
+A React-based recipe generator that fetches personalized recipes using **GroqCloud API**. Users can search for recipes, generate new meal ideas, and store their preferences for a tailored experience.
 
-## Features
+---
 
-- **Generate Recipe Ideas**: Users can click the "Generate Ideas" button to receive recipe suggestions from the Groq Playground API.
-- **Full Recipe Display**: Clicking on a suggested recipe will generate the full recipe details.
-- **Navigation**: The app navigates to a new page when a recipe is selected.
-- **Modular Structure**: The project follows a modular structure for maintainability and scalability.
+## 🚀 Features
 
-## Tech Stack
+- **🔍 Recipe Search:** Enter a dish name to find detailed recipes.
+- **✨ AI-Generated Ideas:** Click "Generate Ideas" to get AI-powered meal suggestions.
+- **📖 Full Recipe Details:** View ingredients, instructions, and nutrition info upon selection.
+- **⚙️ Preference-Based Results:** Customize results based on cuisine, nutrition goals, and allergies.
+- **🕒 Recipe History:** Access past searches and generated recipes via Firebase storage.
 
-- **Frontend**: React, React Router
-- **API Integration**: Groq Playground API
-- **State Management**: React Hooks
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, React Router
+- **Backend & Storage:** Firebase
+- **API Integration:** GroqCloud API
+- **State Management:** React Hooks
+
+---
 
 ## Project Structure
 
